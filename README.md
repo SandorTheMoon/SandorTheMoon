@@ -1,21 +1,81 @@
-# 💫 About Me:
-👋 About Me<br><br>I'm Xander Espero, a.ka Sandor. I'm a passionate software developer with a diverse portfolio of projects spanning web development, game design, and business applications. My work reflects a commitment to creating practical solutions and engaging user experiences.<br><br>🌱 Learning & Growth<br><br>I continuously seek to expand my knowledge and skills, engaging in projects that challenge inme to learn new technologies and methodologies. My GitHub repositories serve as a testament to my ongoing journey in software development.<br><br>📫 Connect with Me<br><br>Feel free to explore my projects on GitHub or connect with me professionally on LinkedIn.
+<div align="center">
 
+# 💫 About Me  
+Hi, I'm **Xander Espero** (aka Sandor) — a passionate software developer with a strong background in building efficient, user-focused solutions across web, game, and business applications. I take pride in combining functionality with creativity to deliver practical and engaging digital experiences.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/airysh-xander-espero-b671361b9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:derespero@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=flat&logo=tampermonkey&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SandorTheMoon&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SandorTheMoon&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SandorTheMoon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SandorTheMoon&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://i.gifer.com/EgUx.gif" width="350" alt="Male">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SandorTheMoon&icon=2&color=4)](https://visitcount.itsvg.in)
+
+## 🛠️ Projects & Technologies
+
+- **Inventory Management Systems**  
+  Created tools like **Stockord**, a custom inventory system for local hardware stores, along with applications focused on procurement and supplier coordination.
+
+- **E-Commerce Platforms**  
+  Developed **KababayanRice_E-Commerce-App**, a mobile platform aimed at streamlining the sale of rice crops — merging tech with agriculture for real-world impact.
+
+- **Game Development**  
+  Built **KalsadaKings_Game-Development**, a single-player racing game using C# and Unity, showcasing my capabilities in both programming and game design.
+
+- **Web Applications**  
+  Designed projects like **ToDoList_JS-App** (React-based task manager) and **Portfolio_Html-Css** to demonstrate front-end development skills.
+
+- **Data Management Tools**  
+  Developed **QC-Database-Merger-V2**, a utility to simplify data merging tasks, reflecting my attention to automation and data handling.
+
+---
+
+## 🌱 Learning & Growth  
+I constantly explore new technologies and engage in hands-on projects that push me to grow. My GitHub is a reflection of my journey — from solving real-world problems to experimenting with fresh ideas.
+
+---
+
+## 📫 Connect with Me  
+Check out my work or connect with me professionally:  
+📎 [LinkedIn](https://www.linkedin.com/in/airysh-xander-espero-b671361b9/)  
+📧 [Email](mailto:derespero@gmail.com)
+
+---
+
+## 🌐 Socials  
+<a href="https://linkedin.com/in/airysh-xander-espero-b671361b9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+<a href="mailto:derespero@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+
+---
+
+## 💻 Tech Stack  
+**Languages & Frameworks**  
+C, C++, C#, Python, JavaScript, HTML5, CSS3, Markdown  
+React, Django, Bootstrap, Unity  
+
+**Database & Cloud**  
+SQLite, PostgreSQL, AWS, Netlify, Render  
+
+**Tools & Design**  
+Git, GitHub, Jira, Tampermonkey  
+Adobe Photoshop, Adobe XD, Canva, Figma  
+Matplotlib, NumPy, Pandas  
+
+**Other Interests**  
+Game design, automation tools, UI/UX prototyping
+
+---
+
+## 📊 GitHub Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=SandorTheMoon&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=SandorTheMoon&theme=dark&hide_border=false" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandorTheMoon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
+### 🔝 Top Contributed Repos  
+<img src="https://github-contributor-stats.vercel.app/api?username=SandorTheMoon&limit=5&theme=github_dark&combine_all_yearly_contributions=true" />
+
+---
+
+<img src="https://visitcount.itsvg.in/api?id=SandorTheMoon&icon=2&color=4" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
