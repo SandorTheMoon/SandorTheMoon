@@ -86,6 +86,8 @@ Pandas, NumPy, Matplotlib
 
 <div align="center">
 
-<img src="https://visitcount.itsvg.in/api?id=SandorTheMoon&icon=2&color=4" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sandorthemoon&style=flat&color=blue" alt="Profile Views" />
+</p>
 
 </div>
