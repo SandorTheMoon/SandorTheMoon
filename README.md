@@ -1,81 +1,91 @@
 <div align="center">
 
-# 💫 About Me  
-Hi, I'm **Xander Espero** (aka Sandor) — a passionate software developer with a strong background in building efficient, user-focused solutions across web, game, and business applications. I take pride in combining functionality with creativity to deliver practical and engaging digital experiences.
+# 👋 Hello, I'm Xander Espero (aka Sandor)
+**Aspiring Software Developer | Systems Designer | Tech Problem Solver**
+
+I'm a passionate software developer with a diverse portfolio of projects spanning web development, game design, and business applications. My work reflects a commitment to creating practical solutions and engaging user experiences.
 
 <p align="center">
   <img src="https://i.gifer.com/EgUx.gif" width="350" alt="Male">
 </p>
 
----
-
-## 🛠️ Projects & Technologies
-
-- **Inventory Management Systems**  
-  Created tools like **Stockord**, a custom inventory system for local hardware stores, along with applications focused on procurement and supplier coordination.
-
-- **E-Commerce Platforms**  
-  Developed **KababayanRice_E-Commerce-App**, a mobile platform aimed at streamlining the sale of rice crops — merging tech with agriculture for real-world impact.
-
-- **Game Development**  
-  Built **KalsadaKings_Game-Development**, a single-player racing game using C# and Unity, showcasing my capabilities in both programming and game design.
-
-- **Web Applications**  
-  Designed projects like **ToDoList_JS-App** (React-based task manager) and **Portfolio_Html-Css** to demonstrate front-end development skills.
-
-- **Data Management Tools**  
-  Developed **QC-Database-Merger-V2**, a utility to simplify data merging tasks, reflecting my attention to automation and data handling.
+</div>
 
 ---
 
-## 🌱 Learning & Growth  
-I constantly explore new technologies and engage in hands-on projects that push me to grow. My GitHub is a reflection of my journey — from solving real-world problems to experimenting with fresh ideas.
+<div align="center">
+
+### 💼 Projects and Technologies
+
+</div>
+
+- **🛒 Stockord – Inventory Management System**  
+  Developed tools like Stockord, an inventory management system tailored for local hardware stores, and other systems focusing on procurement and supplier coordination.
+
+- **🌾 KababayanRice – E-Commerce App**  
+  Built KababayanRice_E-Commerce-App, a mobile platform designed to facilitate the sale of rice crops, showcasing my ability to integrate technology with agricultural commerce.
+
+- **🏎️ KalsadaKings – Racing Game**  
+  Created KalsadaKings_Game-Development, a single-player racing game developed using C# and the Unity engine, highlighting my skills in game design and development.
+
+- **📝 ToDoList JS App**  
+  A simple to-do list application built with React JS, and Portfolio_Html-Css, demonstrating proficiency in front-end technologies.
+
+- **📊 QC Database Merger**  
+  Developed QC-Database-Merger-V2, a tool aimed at streamlining data merging processes, reflecting my attention to efficient data handling.
 
 ---
 
-## 📫 Connect with Me  
-Check out my work or connect with me professionally:  
-📎 [LinkedIn](https://www.linkedin.com/in/airysh-xander-espero-b671361b9/)  
-📧 [Email](mailto:derespero@gmail.com)
+<div align="center">
 
----
+### 🧠 Tech Stack & Tools
 
-## 🌐 Socials  
-<a href="https://linkedin.com/in/airysh-xander-espero-b671361b9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-<a href="mailto:derespero@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</div>
 
----
+**Languages:**  
+C, C++, C#, Python, JavaScript, HTML, CSS, Markdown  
 
-## 💻 Tech Stack  
-**Languages & Frameworks**  
-C, C++, C#, Python, JavaScript, HTML5, CSS3, Markdown  
+**Frameworks & Libraries:**  
 React, Django, Bootstrap, Unity  
 
-**Database & Cloud**  
-SQLite, PostgreSQL, AWS, Netlify, Render  
+**Databases & Deployment:**  
+SQLite, PostgreSQL, AWS, Render, Netlify  
 
-**Tools & Design**  
-Git, GitHub, Jira, Tampermonkey  
-Adobe Photoshop, Adobe XD, Canva, Figma  
-Matplotlib, NumPy, Pandas  
+**Tools & Platforms:**  
+Git, GitHub, Jira, Tampermonkey, Figma, Photoshop, Canva  
 
-**Other Interests**  
-Game design, automation tools, UI/UX prototyping
+**Data Tools:**  
+Pandas, NumPy, Matplotlib  
 
 ---
 
-## 📊 GitHub Stats  
+<div align="center">
+
+### 📫 Let's Connect
+
+</div>
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/airysh-xander-espero-b671361b9/)  
+- 📧 [derespero@gmail.com](mailto:derespero@gmail.com)  
+- 🛠️ [GitHub Projects](https://github.com/SandorTheMoon)
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+</div>
+
 <img src="https://github-readme-stats.vercel.app/api?username=SandorTheMoon&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=SandorTheMoon&theme=dark&hide_border=false" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandorTheMoon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
-### 🔝 Top Contributed Repos  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandorTheMoon&theme=dark&hide_border=false&layout=compact" /><br/>
 <img src="https://github-contributor-stats.vercel.app/api?username=SandorTheMoon&limit=5&theme=github_dark&combine_all_yearly_contributions=true" />
 
 ---
 
-<img src="https://visitcount.itsvg.in/api?id=SandorTheMoon&icon=2&color=4" />
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://visitcount.itsvg.in/api?id=SandorTheMoon&icon=2&color=4" />
 
 </div>
