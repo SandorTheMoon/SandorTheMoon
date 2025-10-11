@@ -50,7 +50,7 @@ I'm a passionate software developer with a diverse portfolio of projects spannin
 
 🌐 [LinkedIn](https://www.linkedin.com/in/airysh-xander-espero-b671361b9/)  
 📧 [derespero@gmail.com](mailto:derespero@gmail.com)  
-🛠️ [GitHub Projects](https://github.com/SandorTheMoon)
+🛠️ [GitHub Projects](https://github.com/SandorTheMoon?tab=repositories)
 
 ---
 </div>
