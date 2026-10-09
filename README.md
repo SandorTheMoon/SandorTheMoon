@@ -9,9 +9,7 @@
 <div align="center">
 
 # 👋 Hello, I'm Xander Espero (aka Sandor)
-**Aspiring Software Developer | Cybersec | Cloud Practitioner**
-
-I'm a passionate software developer with a diverse portfolio of projects spanning web development, game design, and business applications. My work reflects a commitment to creating practical solutions and engaging user experiences.
+**Software Developer | Cloud Engineer**
 
 <p align="center">
   <img src="https://i.gifer.com/EgUx.gif" width="350" alt="Male">
